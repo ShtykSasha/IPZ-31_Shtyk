@@ -67,7 +67,6 @@ fun GreetingCard(modifier: Modifier = Modifier) {
                 style = androidx.compose.ui.text.TextStyle(
                     fontSize = 18.sp,
                     fontWeight = FontWeight.Bold,
-                    color =
                 ),
                 modifier = Modifier
                     .padding(top = 20.dp)
